@@ -1,0 +1,36 @@
+body {
+  font-family: "Georgia", serif;
+  background: #fff8f0;
+  color: #4b2e2e;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #d9a066;
+  color: white;
+  padding: 2rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: left;
+}
+
+main {
+  padding: 2rem;
+  height: 500px;
+}
+
+footer {
+  background: #eee;
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+  height: 80px;
+}
+
+/*# sourceMappingURL=/main.07544d9b.css.map */
